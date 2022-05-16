@@ -23,4 +23,5 @@ set startup-with-shell off
 * Debug003: Thread debugging
 * Debug004: Symbols
 * Debug005: Attaching to a hanging app
+* Debug006: Reading a memory dump
 
